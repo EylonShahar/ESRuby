@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4CCA-A1E2
+
+ Directory of C:\Eylon\Projects\ruby\set_vcproj_out_path
+
+09/12/2011  03:29 PM    <DIR>          .
+09/12/2011  03:29 PM    <DIR>          ..
+09/12/2011  07:16 PM             2,502 set_vcproj_out_path.rb
+09/12/2011  05:13 PM             1,621 out.ini
+09/12/2011  06:06 PM             3,764 wallProjCalc.vcproj
+09/12/2011  07:16 PM                 0 aaa.txt
+               4 File(s)          7,887 bytes
+               2 Dir(s)  165,208,489,984 bytes free

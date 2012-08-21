@@ -1,0 +1,14 @@
+es::vec2f&	m_vCenter
+
+// Set center of the the circle
+void setCenter(es::vec2f& vCenter)
+{
+	m_vCenter = vCenter;
+}
+
+// Get center of the the circle
+es::vec2f& getCenter(void)
+{
+	return m_vCenter;
+}
+

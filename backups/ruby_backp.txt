@@ -1,0 +1,544 @@
+"Source Path: C:\\Projects\\ruby"
+"Destination Path: H:\\Eylon-Laptop\\Projects\\Projects\\ruby"
+C:\Projects\ruby\backp_output.txt
+1 File(s) copied
+0 File(s) copied
+C:\Projects\ruby\cdb_file.rb
+1 File(s) copied
+C:\Projects\ruby\EsPoint.rb
+1 File(s) copied
+C:\Projects\ruby\excel_test.rb
+1 File(s) copied
+0 File(s) copied
+0 File(s) copied
+C:\Projects\ruby\gvim
+1 File(s) copied
+0 File(s) copied
+C:\Projects\ruby\make_cpp_vars.rb
+1 File(s) copied
+C:\Projects\ruby\myClient.rb
+1 File(s) copied
+C:\Projects\ruby\myServer.rb
+1 File(s) copied
+C:\Projects\ruby\myTemp.txt
+1 File(s) copied
+0 File(s) copied
+C:\Projects\ruby\New Internet Shortcut.url
+1 File(s) copied
+C:\Projects\ruby\open_shell.bat
+1 File(s) copied
+0 File(s) copied
+0 File(s) copied
+C:\Projects\ruby\run-cmd.bat
+1 File(s) copied
+0 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\""
+C:\Projects\ruby\backup-data\folder A\Doctors In Cambridge.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\endian_stuff.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\flt_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\linuxdefs.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\new_querydb.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\noa.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\ogl_ut.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\otw_attr.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qobject.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qobject.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qpointsbox.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_loder.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_parser.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_parser.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_tree.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_flt_tree.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_format_v108.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_grid.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_ground_object.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_ground_object.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader_v106.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader_v108.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader_v108.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader_v110.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_loader_v110.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_mem_pool.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_mem_pool.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_paging_db.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_paging_db.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_swap_endian.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_tree_element_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\qry_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\querydb.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_alloc.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_alloc.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_clouds.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_db.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_def.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_dump.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_dump.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_file.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_file_util.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_ground_obj.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_ground_obj.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_height.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_height.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_intersect.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_intersect.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_intersected.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_intersected.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_loader.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_mg.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_nf.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_nformat.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_nf_read.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_nf_write.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_objects.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_objects.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_points.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_polygons_vector.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_polygons_vector.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_positionable_obj.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_positionable_obj.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_processfile.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_projection.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_projection.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_qry_writer.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_quadtree.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_quadtree.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_rounded_world.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_rounded_world.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_scan_line.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_shadows.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_stack.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_stack.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_timer.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_timer.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_txt_read.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\query_util.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\Resource.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\with_test_bad_poins.cpp
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\other folder\""
+C:\Projects\ruby\backup-data\folder A\other folder\gave_gift_list.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\other folder\áÅòâç âóòâç.docx
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\Prj\""
+C:\Projects\ruby\backup-data\folder A\Prj\BvrQuery.sln
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\Prj\BvrQuery.vcproj
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\Prj\\Debug\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\Prj\\Release\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\Prj\\_UpgradeReport_Files\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\""
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\bad_points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\data.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\debug.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esCircle.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esCircle.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esMouseControl.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esMouseControl.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esShader.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esShader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esVertexArray.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\esVertexArray.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\GLEXT.H
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\inp.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\intersection.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\intersection_points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\myDebug.ini
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\queryDebug.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\queryDebug.sln
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\queryDebug.vcproj
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\shaders.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\WGLEXT.H
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\\Debug\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\\flt\""
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\flt\bunker.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\flt\bunker_orig.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\flt\bunker_tree.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\flt\eylon_test.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder A\tools\queryDebug\flt\f16.flt
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\\qry\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\\Release\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder A\\tools\\queryDebug\\_UpgradeReport_Files\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\""
+C:\Projects\ruby\backup-data\folder B\endian_stuff.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\flt_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\linuxdefs.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\new_querydb.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\ogl_ut.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\otw_attr.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qobject.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qobject.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qpointsbox.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_loder.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_parser.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_parser.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_tree.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_flt_tree.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_format_v108.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_grid.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_ground_object.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_ground_object.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader_v106.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader_v108.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader_v108.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader_v110.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_loader_v110.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_mem_pool.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_mem_pool.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_paging_db.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_paging_db.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_swap_endian.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_tree_element_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\qry_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\querydb.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_alloc.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_alloc.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_clouds.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_db.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_def.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_dump.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_dump.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_file.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_file_util.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_ground_obj.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_ground_obj.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_height.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_height.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_intersect.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_intersect.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_intersected.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_intersected.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_loader.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_loader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_mg.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_nf.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_nformat.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_nf_read.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_nf_write.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_objects.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_objects.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_points.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_polygons_vector.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_polygons_vector.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_positionable_obj.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_positionable_obj.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_processfile.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_projection.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_projection.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_qry_writer.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_quadtree.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_quadtree.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_rounded_world.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_rounded_world.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_scan_line.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_shadows.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_stack.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_stack.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_timer.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_timer.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_txt_read.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_types.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\query_util.c
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\Resource.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\with_test_bad_poins.cpp
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\Prj\""
+C:\Projects\ruby\backup-data\folder B\Prj\BvrQuery.sln
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\Prj\BvrQuery.vcproj
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\Prj\\Debug\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\Prj\\Release\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\Prj\\_UpgradeReport_Files\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\""
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\bad_points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\data.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\debug.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esCircle.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esCircle.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esMouseControl.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esMouseControl.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esShader.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esShader.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esVertexArray.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\esVertexArray.h
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\GLEXT.H
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\inp.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\intersection.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\intersection_points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\myDebug.ini
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\points.txt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\queryDebug.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\queryDebug.sln
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\queryDebug.vcproj
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\shaders.cpp
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\WGLEXT.H
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\\Debug\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\\flt\""
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\flt\bunker.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\flt\bunker_orig.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\flt\bunker_tree.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\flt\eylon_test.flt
+1 File(s) copied
+C:\Projects\ruby\backup-data\folder B\tools\queryDebug\flt\f16.flt
+1 File(s) copied
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\\qry\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\\Release\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backup-data\\folder B\\tools\\queryDebug\\_UpgradeReport_Files\""
+"mkdir \"H:\\Eylon-Laptop\\Projects\\Projects\\ruby\\backups\""
+C:\Projects\ruby\backups\backp_output.txt
+1 File(s) copied
+C:\Projects\ruby\backups\backup.rb
+1 File(s) copied
+C:\Projects\ruby\backups\backup_documents.bat
+1 File(s) copied
+C:\Projects\ruby\backups\backup_music.bat
+1 File(s) copied
+C:\Projects\ruby\backups\backup_pictures - Copy.bat
+1 File(s) copied
+C:\Projects\ruby\backups\backup_pictures.bat
+1 File(s) copied
+C:\Projects\ruby\backups\backup_ruby.bat
+1 File(s) copied
+C:\Projects\ruby\backups\Documents_backp.txt
+1 File(s) copied
+C:\Projects\ruby\backups\heb.txt
+1 File(s) copied
+C:\Projects\ruby\backups\Music_backp.txt
+1 File(s) copied
+C:\Projects\ruby\backups\pictures_backp.txt
+1 File(s) copied
+C:\Projects\ruby\backups\ruby_backp.txt

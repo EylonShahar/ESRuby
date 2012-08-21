@@ -1,0 +1,8 @@
+class Subscriber
+{
+public:
+	virtual void notify (myXXX* pCmyXXX, Event eventId) {}
+};
+	
+typedef Subscriber*	SubscriberPtr;
+typedef std::list<SubscriberPtr>		SubscribersList;
